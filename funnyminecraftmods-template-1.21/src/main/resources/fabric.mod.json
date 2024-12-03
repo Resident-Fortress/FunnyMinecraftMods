@@ -2,10 +2,11 @@
 	"schemaVersion": 1,
 	"id": "funnyminecraftmods",
 	"version": "${version}",
-	"name": "FunnyMinecraftMods",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Crappy N' Scrappy",
+	"description": "Crappy and Scrappy little mods. Delightful mischief. ;)",
 	"authors": [
-		"Me!"
+		"Angel Bitsov",
+		"Matthew Dudzinski"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
